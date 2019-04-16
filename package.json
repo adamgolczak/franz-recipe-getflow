@@ -1,0 +1,12 @@
+{
+  "id": "flow",
+  "name": "Flow",
+  "version": "1.0.0",
+  "description": "Flow",
+  "main": "index.js",
+  "author": "Adam Golczak",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.getflow.com"
+  }
+}
